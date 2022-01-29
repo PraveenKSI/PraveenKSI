@@ -1,0 +1,5 @@
+- ### 👋 Hi, I’m Praveen Kumar Singh @PraveenKSI
+- #### 👀 I’m interested in Fullstack Development
+- #### 🌱 I’m currently learning React and Typescript
+- #### 💞️ I’m looking to collaborate on ReactJs and ReactNative Projects
+- ##### 📫 you can reach me at pksedu0@gmail.com
